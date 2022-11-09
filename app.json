@@ -31,11 +31,11 @@
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "CHANNELS": {
+        "UNSCREEN_API": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "required": false
+            "required": true
         },
-        "ADMINS": {
+        "REMOVEBG_API": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
