@@ -32,7 +32,7 @@ start - For start the bot
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Muhammedshifin/Ajax-Extra-Features">
+<a href="https://heroku.com/deploy?template=https://github.com/Muhammedshifin/Remove-BG-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
