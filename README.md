@@ -27,3 +27,12 @@ start - For start the bot
 - [Unscreen API](https://unscreen.com/api)
 
 ---
+
+
+<summary>Deploy To Heroku</summary>
+<br>
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/Muhammedshifin/Ajax-Extra-Features">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
